@@ -4,5 +4,6 @@ int main(){
     int b = 11;
     int c = 111;
     printf("hello, world");
+    int d = 100;
     return 0;
 }
