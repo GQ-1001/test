@@ -6,7 +6,9 @@ int main(){
     printf("hello, world");
     int d = 1001;
     int e = 9;
+    int llll = 1;
     int ee = 1;
     int dd = 2;
+
     return 0;
 }
