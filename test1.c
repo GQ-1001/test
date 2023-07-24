@@ -16,5 +16,6 @@ int main(){
     int speed = 1;
     int fz = 100;
     int sss = 1001;
+    int ww = 1;
     return 0;
 }
