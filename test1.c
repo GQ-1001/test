@@ -5,6 +5,6 @@ int main(){
     int c = 111;
     printf("hello, world");
     int d = 1001;
-    int e = 009;
+    int e = 9;
     return 0;
 }
