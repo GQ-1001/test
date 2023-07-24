@@ -6,5 +6,7 @@ int main(){
     printf("hello, world");
     int d = 1001;
     int e = 9;
+
+    int ff = 100;
     return 0;
 }
