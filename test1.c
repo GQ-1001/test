@@ -13,5 +13,6 @@ int main(){
     int ff = 100;
     
     int hell = 123324;
+    int speed = 1;
     return 0;
 }
