@@ -12,5 +12,6 @@ int main(){
     int hello = 1;
     int ff = 100;
     
+    int hell = 123324;
     return 0;
 }
