@@ -14,5 +14,7 @@ int main(){
     int ball = 1;
     int hell = 123324;
     int speed = 1;
+    int fz = 100;
+    int www = 1995;
     return 0;
 }
